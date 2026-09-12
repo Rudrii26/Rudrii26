@@ -1,16 +1,26 @@
-## Hi there 👋
+# hey, i'm rudri 👋
 
-<!--
-**Rudrii26/Rudrii26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> learning by building, creating with curiosity, and improving one project at a time.
 
-Here are some ideas to get you started:
+### currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Science Engineering student
+- 💻 working with C++, Java, Python & web technologies
+- 🌱 learning DSA, software development & AI
+- 🛠️ building projects and experimenting with new ideas
+
+### tech i use
+
+`C++` · `Java` · `Python` · `HTML` · `CSS` · `JavaScript` · `Git` · `GitHub`
+
+### what i'm building
+
+I'm interested in turning ideas into useful projects and
+understanding how things work rather than just making them work.
+
+Currently exploring software development, web development,
+AI, and problem solving.
+
+---
+
+thanks for stopping by 🌱
